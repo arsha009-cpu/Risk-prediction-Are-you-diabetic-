@@ -1,1 +1,1 @@
-# Risk-prediction-Are-you-diabetic-
+# Gluco-Risk-Analyzer
